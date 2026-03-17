@@ -26,4 +26,4 @@ Aqui estão algumas das tecnologias e ferramentas que estou aprendendo e utiliza
 
 **Ferramentas:**
 * Git & GitHub
-* (Adicione aqui softwares que usa: ex: VS Code, Pacote Office, etc.)
+*  aqui softwares que ultilizo:  VS Code, Pacote Office, etc.
