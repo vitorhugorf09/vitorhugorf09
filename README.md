@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias e ferramentas que estou aprendendo e utiliza
 
 **Fundamentos & Desenvolvimento:**
 * Lógica de Programação
-* (Adicione aqui outras coisas que já viu no curso: ex: HTML5, CSS3, Python, etc.)
+* já vi no curso: HTML5, CSS3, Python, CMD e etc.
 
 **Ferramentas:**
 * Git & GitHub
